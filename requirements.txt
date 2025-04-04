@@ -1,0 +1,33 @@
+# Core Data & Math
+numpy
+pandas
+scipy
+
+# Machine Learning & AI
+tensorflow
+keras
+scikit-learn
+xgboost
+
+# Time-Series & Signal Processing
+statsmodels
+#pywt
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Edge AI & Deployment
+#tflite-micro
+onnxruntime
+#edge-impulse
+
+# Hardware & Communication
+pyserial
+pvlib
+
+# Utilities
+jupyterlab
+joblib
+pyinstaller
